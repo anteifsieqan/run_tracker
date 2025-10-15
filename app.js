@@ -103,3 +103,5 @@ assert_cmd = "2.0.0"
 # PR Merge: 2025-10-15 - feature/merge-8168
 
 # PR Merge: 2025-10-15 - enhancement/merge-9974
+
+# PR Update: 2025-10-15 - fix/update-1785
